@@ -1,0 +1,12 @@
+{
+    "libros": [
+        {
+            "titulo": "nombre libro _1",
+            "fecha": "oct 2023",
+            "autor": "autor desconocido _1"
+        }
+    ],
+    "autores": [
+        "autores"
+    ]
+}
